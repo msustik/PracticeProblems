@@ -32,7 +32,7 @@ def mergeArrays(a, b):
             j += 1
 
         # Reduce the gap
-        gap = gap // 2 if gap > 1 else 0
+        gap = (gap + 1) // 2 if gap > 1 else 0
 
 
 a = [1, 3, 5, 7]
