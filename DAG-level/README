@@ -1,0 +1,11 @@
+Build with:
+
+> make levelize.exe
+
+or
+
+> make levelize_g.exe
+
+Execute with:
+
+> ./levelize.exe < test3.txt
